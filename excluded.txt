@@ -1,0 +1,12 @@
+bbswitch-dkms
+envycontrol
+intel-media-driver
+intel-ucode
+linux
+linux-headers
+linux-lts-headers
+nvidia-open-dkms
+nvidia-prime
+thermald
+vulkan-intel
+xf86-video-intel

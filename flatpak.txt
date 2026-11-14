@@ -1,0 +1,3 @@
+com.protonvpn.www
+org.jellyfin.JellyfinDesktop
+us.zoom.Zoom
